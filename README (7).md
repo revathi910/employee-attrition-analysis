@@ -128,10 +128,10 @@ Built a 6-visual interactive dashboard:
 
 ## 👤 Author
 
-**Your Name**  
+**revathi koyala**  
 Aspiring Data Analyst | Excel · SQL · Power BI  
-📧 your.email@example.com  
-🔗 [LinkedIn Profile](https://linkedin.com/in/yourprofile)
+📧revathiokoyyala@gmail.com  
+🔗 (https://www.linkedin.com/in/revathi-koyala-3066b12b5?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
